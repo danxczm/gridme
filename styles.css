@@ -8,8 +8,8 @@
 .header-container {
   display: grid;
   grid-template-columns: 24px 1fr;
-  align-items: center;
   column-gap: 8px;
+  align-items: center;
 }
 
 .logo {
